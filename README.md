@@ -9,7 +9,7 @@
 
 - 📫 How to reach me:
 
-  - Check out my [Website](https://dylantjb.com)
+  - Check out my [website](https://dylantjb.com)
   - Visit my [LinkedIn](https://www.linkedin.com/in/dylantjb)
   - Email me on [dthomasbarker@gmail.com](mailto:dthomasbarker@gmail.com)
 <br>
