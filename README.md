@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**dylantjb/dylantjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working on university coursework
 
-Here are some ideas to get you started:
+- 🌱 I'm currently studying Java and C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ I'm also learning about Arch Linux
+
+- 🤔 I'm looking for curriculum vitae and work experience support
+
+- 📫 How to reach me:
+
+  - Check out my [Website](https://dylantjb.com)
+  - Visit my [LinkedIn](https://www.linkedin.com/in/dylantjb)
+  - Email me on [dthomasbarker@gmail.com](mailto:dthomasbarker@gmail.com)
+
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylantjb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
