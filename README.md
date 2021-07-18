@@ -11,7 +11,7 @@
 
   - Check out my [website](https://dylantjb.com)
   - Visit my [LinkedIn](https://www.linkedin.com/in/dylantjb)
-  - Email me on [dthomasbarker@gmail.com](mailto:dthomasbarker@gmail.com)
+  - Email me on [dylan@dylantjb.com](mailto:dylan@dylantjb.com)
 <br>
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylantjb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylantjb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
