@@ -1,7 +1,7 @@
 
 - 🔭 I'm currently working on university coursework
 
-- 🌱 I'm currently studying Java and C
+- 🌱 I'm currently studying C++, Python, and Scala
 
 - ⚡ I'm also learning about Arch Linux
 
