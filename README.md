@@ -15,5 +15,15 @@
 <br>
 
 
-![Dylan's GitHub stats](https://dylantjb.com/readme/api?username=dylantjb&show_icons=true&theme=tokyonight)
+<picture>
+<source 
+  srcset="https://dylantjb.com/readme/api?username=dylantjb&show_icons=true&theme=onedark&hide=stars&count_private=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://dylantjb.com/readme/api?username=dylantjb&show_icons=true&theme=transparent&hide=stars&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://dylantjb.com/readme/api?username=dylantjb&show_icons=true&theme=transparent&hide=stars&count_private=true" />
+</picture>
 
